@@ -1,4 +1,4 @@
-package conta.model;
+package contabancaria.model;
 
 public class ContaPoupanca extends Conta{
 
